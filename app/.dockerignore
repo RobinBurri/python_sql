@@ -1,0 +1,4 @@
+Dockerfile
+.venv
+docker-compose.yml
+env/
